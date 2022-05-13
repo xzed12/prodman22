@@ -764,13 +764,16 @@ a {
   color: #ffffff;
 }
 .cid-t5KCd5IVNB {
-  padding-top: 0rem;
+  padding-top: 2rem;
   padding-bottom: 0rem;
   background-color: #ffffff;
 }
 .cid-t5KCd5IVNB .mbr-section-title {
-  color: #fafafa;
+  color: #0078b6;
   text-align: left;
+  font-size: 44px;
+  font-weight: 900;
+  line-height: 45px;
 }
 .cid-t5KCd5IVNB .mbr-section-subtitle {
   color: #6c7577;
@@ -1246,7 +1249,7 @@ a {
   background-color: #0078b6;
 }
 .cid-t5KD6ltT2e .mbr-section-title {
-  color: #fafafa;
+  color: #0078b6;
   text-align: left;
 }
 .cid-t5KD6ltT2e .mbr-section-subtitle {
